@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/opt/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a59767ffa577560f508e8366567d9db49220b5a2.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/libs/library-1.0.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2f4d4d097718bac365a7d0241003133e3a309f7d">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/library-1.0.14-e66a00e895278e5aeb9b682572b26e832fd895c1.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/libs/library-1.0.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2f4d4d097718bac365a7d0241003133e3a309f7d">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/library-1.0.14-5042d1a8e5252b1dce49903e5190666ee5b5f7b2.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-eeee68d810a477df5d9235b624c868e1dec041f3.jar" />
+    </item>
+    <item
+        jar="/home/afagas/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-c85b8d64bac0ebcd789aeb02f05f84cadbdaa3c1.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-e5a82a765f432999ca31fbf8db6bdef3b6fd73cc.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6a2e21515225d3c0ae2da0584de65a0c29c22673.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/java-json/java-json.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/java-json-c63096277c9ca918978dff0afc45d7ff9a18a034.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-65f3fdbcca80cfe9ef354c20623e2d6b0aa1144f.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/java-json/java-json.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/java-json-64b650a1490ba745e2f7322e47f667051d3f5015.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-2c6c3ceb3ef061a5d433c747f9d25badbef51a38.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-5f9d78853283215592d7c5e14247171107f0aa2b.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-f997bcfdcd715d28a4b12e74b349af1141f01912.jar" />
+    </item>
+    <item
+        jar="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/afagas/Documents/temp/7_6/MyUthApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e9dea3e49b81859ccc8078069eb123e243558097.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-7c69e03c7157e6edfd7c055c6806d74393d9816e.jar" />
+    </item>
+    <item
+        jar="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/afagas/AndroidStudioProjects/MyFirstApp/MyUthApplication/app/build/intermediates/pre-dexed/debug/classes-d5f0d7bc61eff67f08485cb8abb1318ef3d94986.jar" />
+    </item>
+
+</items>
